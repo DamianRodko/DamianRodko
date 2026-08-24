@@ -21,10 +21,6 @@ embedded systems, homelabs, electronics, and software.
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-555555?style=for-the-badge)
-![PWM](https://img.shields.io/badge/PWM-555555?style=for-the-badge)
-![PCA9685](https://img.shields.io/badge/PCA9685-555555?style=for-the-badge)
-![ICM-20948](https://img.shields.io/badge/ICM--20948-555555?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -36,15 +32,12 @@ embedded systems, homelabs, electronics, and software.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=for-the-badge&logo=nginx&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=openssh&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-555555?style=for-the-badge)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge)
-![NUT](https://img.shields.io/badge/NUT-UPS_Monitoring-555555?style=for-the-badge)
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Homepage](https://img.shields.io/badge/Homepage-3367D6?style=for-the-badge)
@@ -54,7 +47,6 @@ embedded systems, homelabs, electronics, and software.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-555555?style=for-the-badge&logo=systemd&logoColor=white)
 ![APT](https://img.shields.io/badge/APT-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ![Electronics](https://img.shields.io/badge/Electronics-FF6F00?style=for-the-badge)
