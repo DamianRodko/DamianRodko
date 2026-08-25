@@ -5,7 +5,6 @@ embedded systems, self-hosting, electronics, and software.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-rodko-537459412/)
-![Profile Views](https://komarev.com/ghpvc/?username=DamianRodko&style=flat&label=Profile+views)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
